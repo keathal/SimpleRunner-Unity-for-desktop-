@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b67ce6d95ce7b6d448c72379bfc50582
+timeCreated: 1518369225
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DS Eraser Cyr
+  fontNames:
+  - DS Eraser Cyr
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
